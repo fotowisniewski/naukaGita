@@ -1,4 +1,4 @@
 public static void main(String[] args) {
-System.out.println("Podaj nazwę użytkownika")
+System.out.println("Podaj e-mail AppleID")
 System.out.println("Podaj hasło")
 }
