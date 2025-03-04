@@ -7,3 +7,8 @@ public static void main(String[] args) {
 System.out.println("Podaj e-mail Google")
 System.out.println("Podaj hasło")
 }
+
+public static void main(String[] args) {
+System.out.println("Kliknij przycisk 'Zapomnialem hasla'")
+
+}
