@@ -1,2 +1,2 @@
 Wymagania aplikacji:
--Do zalogowania się potrzebna jest nazwa użytkownika i hasło
+-Do zalogowania się potrzebna jest nazwa użytkownika i hasło (istnieje możliwość zalogowania się z kontem google)
